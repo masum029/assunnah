@@ -2,7 +2,7 @@
   "slides": [
     {
       "id": "campus-life",
-      "image": "/images/slider/S-1.png",
+      "image": "assets/images/slider/S-1.png",
       "alt": "মাদরাসাতুস সুন্নাহর শিক্ষার্থীদের সমাবেশ",
       "eyebrow": "মাদরাসাতুস সুন্নাহ",
       "title": "কুরআন-সুন্নাহর জ্ঞান ও সমন্বয়ধর্মী শিক্ষার আদর্শ প্রতিষ্ঠান",
@@ -12,7 +12,7 @@
     },
     {
       "id": "campus",
-      "image": "/images/slider/S-2.png",
+      "image": "assets/images/slider/S-2.png",
       "alt": "মাদরাসাতুস সুন্নাহ ক্যাম্পাস",
       "eyebrow": "আমাদের ক্যাম্পাস",
       "title": "ইলম, তারবিয়াত ও সুন্দর ভবিষ্যতের পথে",
@@ -22,7 +22,7 @@
     },
     {
       "id": "chairman-message",
-      "image": "/images/slider/S-3.png",
+      "image": "assets/images/slider/S-3.png",
       "alt": "চেয়ারম্যানের ছবি",
       "eyebrow": "চেয়ারম্যানের বাণী",
       "title": "শিক্ষা হোক জ্ঞান, আদব ও আমলের সমন্বয়",
