@@ -88,6 +88,29 @@ git add README.md
 git commit -m "Add README file"
 git push
 
+*****************************For updates  and new commit*********************************
+git add .
+git commit -m "Update website"
+git push origin main
 
+*****************************For Add NEW BRANCH  and new commit*********************************
+
+# 1. Check your current branch
+git branch
+
+# 2. Get the latest remote branch information
+git fetch origin
+
+# 3. Create a new branch and switch to it
+git switch -c feature/new-website
+
+# 4. Add your changes
+git add .
+
+# 5. Commit your changes
+git commit -m "Add new website features"
+
+# 6. Push the new branch to GitHub
+git push -u origin feature/new-website
 
 Note: The type nul > README.md command creates a new empty file and will overwrite an existing README file. If README.md already exists, skip that command and use code README.md to edit it.
