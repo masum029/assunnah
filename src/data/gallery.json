@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "campus-gathering",
+      "src": "/assets/images/slider/S-1.png",
+      "alt": "শিক্ষার্থীদের খোলা মাঠে সমাবেশ",
+      "title": "শিক্ষার্থীদের সমাবেশ",
+      "category": "ক্যাম্পাস জীবন"
+    },
+    {
+      "id": "classroom-learning",
+      "src": "/assets/images/slider/s-2.png",
+      "alt": "শ্রেণিকক্ষে মনোযোগ দিয়ে পড়াশোনা করছে শিক্ষার্থীরা",
+      "title": "শ্রেণিকক্ষে শেখা",
+      "category": "শ্রেণিকক্ষ"
+    }
+  ]
+}

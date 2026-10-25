@@ -1,0 +1,37 @@
+{
+  "sampleData": true,
+  "teachers": [
+    {
+      "id": "sample-01",
+      "name": "উস্তায আবদুল্লাহ",
+      "role": "কুরআন ও তাজবিদ",
+      "subject": "কুরআন শিক্ষা",
+      "education": "হিফয ও তাজবিদ বিভাগ",
+      "initials": "আ"
+    },
+    {
+      "id": "sample-02",
+      "name": "উস্তাযা ফারিহা",
+      "role": "আরবি ভাষা",
+      "subject": "আরবি",
+      "education": "আরবি ভাষা ও সাহিত্য",
+      "initials": "ফ"
+    },
+    {
+      "id": "sample-03",
+      "name": "উস্তায মাহমুদ",
+      "role": "সাধারণ শিক্ষা",
+      "subject": "বাংলা ও ইংরেজি",
+      "education": "ভাষা শিক্ষা",
+      "initials": "ম"
+    },
+    {
+      "id": "sample-04",
+      "name": "উস্তাযা সুমাইয়া",
+      "role": "সাধারণ শিক্ষা",
+      "subject": "গণিত ও বিজ্ঞান",
+      "education": "বিজ্ঞান শিক্ষা",
+      "initials": "স"
+    }
+  ]
+}
