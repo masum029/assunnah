@@ -4,8 +4,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "মাদরাসাতুস সুন্নাহ",
-  description: "ইলম, আমল ও তারবিয়াহর মাধ্যমে সচেতন ও সময়োপযোগী প্রজন্ম গড়ে তোলার প্রচেষ্টা।"
+  title: "আল-হাইসাম ইন্টারন্যাশনাল একাডেমি",
+  description: "আদর্শ মানুষ গড়ার প্রত্যয়ে আমাদের পথচলা"
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

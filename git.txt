@@ -93,7 +93,7 @@ git add .
 git commit -m "Update website"
 git push origin main
 
-*****************************For updates  and new commit*********************************
+*****************************For Add NEW BRANCH  and new commit*********************************
 
 # 1. Check your current branch
 git branch
